@@ -19,6 +19,6 @@ Nessa minha implementação, resolvi utilizar uma abordagem diferente da planeja
 
 ## 📂 Estrutura de pastas
 
-- [api](https://github.com/ErickMachado/waiter-app/tree/master/api): Todo o código da parte da API.
+- api: Todo o código da parte da API.
 - web: Frontend da aplicação web
 - mobile: Frontend da aplicação _mobile_
